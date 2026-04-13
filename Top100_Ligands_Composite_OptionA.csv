@@ -1,0 +1,101 @@
+Ligand_Rank,PubChem_CID,Name,Docking_Energy,RMSD_lb,Composite_Score
+1,5281711,Terminalin,-9.4,0,2.924165462
+2,441913,"[(1'S,3'R,4'R,5'R,6'R,10'S,12'S,16'R,18'S,21'R)-2-Hydroxy-1,4',6',12',17',17'-hexamethyl-18'-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyspiro[3,6-dioxabicyclo[3.1.0]hexane-4,8'-9-oxahexacyclo[11.9.0.01,21.04,12.05,10.016,21]docos-13-ene]-3'-yl] acetate",-9.3,0,2.712072943
+3,11227154,Pelargonidin 3-O-(6-caffeoyl-beta-D-glucoside),-8.7,0,2.681790456
+4,5271805,Ginkgetin,-9.2,0,2.679795559
+5,11157896,Delphinidin 3-O-(6-caffeoyl-beta-D-glucoside),-8.4,0,2.667881994
+6,441862,Labriformin,-9.4,0,2.640913407
+7,5281600,Amentoflavone,-9.1,0,2.631564694
+8,15922818,Delphinidin-3-O-(6-p-coumaroyl)glucoside,-8.4,0,2.592435565
+9,5281694,Robustaflavone,-9,0,2.576630921
+10,442428,Naringin,-8.8,0,2.570275167
+11,83489,Eriocitrin,-8.7,0,2.558909905
+12,5281627,Hinokiflavone,-9,0,2.547523427
+13,5281833,Atalanine,-8.9,0,2.535433973
+14,441760,Staphidine,-9.6,0,2.522505762
+15,114652,Convalloside,-8.6,0,2.520428918
+16,5282067,"[(2R,3S,4S,5R,6S)-6-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromenylium-3-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methyl (E)-3-(4-hydroxyphenyl)prop-2-enoate",-8.4,0,2.516989136
+17,114627,Neoeriocitrin,-8.6,0,2.514700305
+18,23724733,Pelargonidin 3-(6-p-coumaroyl)glucoside,-8.5,0,2.495381263
+19,124025,Procyanidin A2,-8.7,0,2.486661968
+20,23724734,Cyanidin 3-(6-p-caffeoyl)glucoside,-8.2,0,2.482568019
+21,5282150,Rhoifolin,-8.6,0,2.466073538
+22,441870,Scillaren A,-8.6,0,2.463999128
+23,31116,Ergocristine,-9,0,2.414235372
+24,442454,Pinocembrin 7-rhamnosylglucoside,-8.6,0,2.4039701
+25,5281386,C-Curarine,-9.5,0,2.40363525
+26,442456,Poncirin,-8.5,0,2.401088404
+27,5282153,Luteolin 7-diglucuronide,-8.1,0,2.398505064
+28,5281256,Isobutrin,-8.2,0,2.382587757
+29,5282152,Scolymoside,-8.3,0,2.355564903
+30,123953,Naadp,-7.8,0,2.344426167
+31,442431,Narirutin,-8.4,0,2.337671065
+32,442682,Gallocatechin-(4alpha->8)-epigallocatechin,-8.1,0,2.319416218
+33,5281599,Agathisflavone,-8.5,0,2.301962054
+34,442439,Neohesperidin,-8.2,0,2.292724604
+35,442762,Physcion 8-gentiobioside,-8.2,0,2.290639701
+36,5281613,Diosmin,-8.2,0,2.285483083
+37,23724703,delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3'-O-beta-D-glucoside,-7.1,0,2.285186528
+38,10621,Hesperidin,-8.2,0,2.279855595
+39,176079,Calenduloside E,-8.4,0,2.267446817
+40,147299,Procyanidin B4,-8.2,0,2.263619786
+41,23724737,Cyanidin-3-O-(6''-O-malonyl-2''-O-glucuronyl)glucoside,-7.1,0,2.252768017
+42,442125,Decuroside III,-8.3,0,2.247642028
+43,5281609,Cupressuflavone,-8.4,0,2.247028281
+44,155008,Aurasperone D,-8.5,0,2.246992617
+45,441861,Labriformidin,-8.8,0,2.246661055
+46,442728,Cassiamin C,-8.6,0,2.229525903
+47,442098,"[(1R,2R,6R,10S,11R,15R,17R)-13-benzyl-6-hydroxy-4,17-dimethyl-5-oxo-15-(prop-1-en-2-yl)-12,14,18-trioxapentacyclo[11.4.1.0^{1,10}.0^{2,6}.0^{11,15}]octadeca-3,8-dien-8-yl]methyl 2-(4-hydroxyphenyl)acetate",-8.5,0,2.22037814
+48,5280803,Malonylapiin,-7.8,0,2.21637019
+49,11953903,Bougainvillein-r-I,-7.6,0,2.211117559
+50,442105,Hodgkinsine,-8.8,0,2.209482632
+51,442677,"(2S,3S)-2-(3,4-dihydroxyphenyl)-8-[(2R,3R,4R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-chroman-4-yl]chromane-3,5,7-triol",-8.1,0,2.208686013
+52,156680,Gambiriin C,-8.2,0,2.207182266
+53,3663,Hypericin,-8.5,0,2.205591997
+54,440585,Berbamunine,-8.4,0,2.204750242
+55,441902,"(1S,3R,6S,7S,8R,11S,12S,16R)-7,12,16-Trimethyl-15-[(1S)-1-[(2S)-5-methyl-6-oxo-2,3-dihydropyran-2-yl]ethyl]-6-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypentacyclo[9.7.0.01,3.03,8.012,16]octadecane-7-carboxylic acid",-8.2,0,2.203595351
+56,5280746,Apiin,-8.1,0,2.199044699
+57,5492231,Delphinidin 3-rutinoside,-7.5,0,2.183862315
+58,164630,Butrin,-8,0,2.183103959
+59,60838,Irinotecan,-8.6,0,2.164002338
+60,441688,Cyanin,-7.4,0,2.14970031
+61,5281246,Citroxanthin,-8.5,0,2.146106515
+62,23724746,bracteatin 6-O-beta-glucoside,-8.2,0,2.138679549
+63,160270,Dracorubin,-8.8,0,2.128604137
+64,5281696,Sciadopitysin,-8.2,0,2.126033953
+65,441764,Silicristin,-8.3,0,2.118343789
+66,10100906,"Delphinidin 3,5-diglucoside",-7.2,0,2.11637441
+67,441063,2'-Norberbamunine,-8.2,0,2.112737444
+68,441674,Keracyanin cation,-7.5,0,2.108415886
+69,441858,Eriocarpin,-8.5,0,2.107643008
+70,157143,Mulberrofuran C,-8,0,2.106262432
+71,73568,Corilagin,-7.6,0,2.101621933
+72,442684,Guibourtinidol-(4alpha->6)-catechin,-8.1,0,2.097043127
+73,159911,Guattegaumerine,-8.2,0,2.094882695
+74,441876,Agavoside A,-8.3,0,2.076781546
+75,442656,(-)-Santiaguine,-8.5,0,2.063319069
+76,177154,(+)-Atherospermoline,-8.4,0,2.060140021
+77,442687,"ent-Apigeniflavan-(2alpha->7,4alpha->8)-epiafzelechin",-8.2,0,2.058926539
+78,5462453,Glycobismine A,-8.1,0,2.056975775
+79,5281238,Flavoxanthin,-8.2,0,2.056029549
+80,11169452,cyanidin 3-O-sophoroside,-7.2,0,2.039832763
+81,5281669,Luteolin 7-O-(6''-malonylglucoside),-7.8,0,2.033909573
+82,5321164,aureusidin 6-O-beta-glucoside,-8.1,0,2.026395575
+83,440454,(25S)-5beta-spirostan-3beta-yl beta-D-glucoside,-8.2,0,2.022453366
+84,73053,Phaeantharine,-8.1,0,2.01484847
+85,441856,Digitalin,-7.7,0,2.004896873
+86,442369,Tiliacorinine,-8.4,0,2.004804945
+87,23724698,"Delphinidin 3-O-3'',6''-O-dimalonylglucoside",-6.9,0,2.001031398
+88,6000,Tubocurarine,-8.3,0,1.999432402
+89,73146,Aridanin,-7.9,0,1.993950085
+90,161671,Withanolide D,-8.5,0,1.993103982
+91,441765,Malvin,-7,0,1.980492875
+92,442995,Belladonnine,-8.3,0,1.978632625
+93,443917,pelargonidin 3-O-rutinoside,-7.4,0,1.978035684
+94,46173862,Timosaponin A-I,-8.1,0,1.967519592
+95,441898,Tokoronin,-8.1,0,1.966911411
+96,390361,Isochamaejasmin,-7.9,0,1.965317249
+97,5280805,Rutin,-7.5,0,1.964865578
+98,442837,Eudesobovatol A,-8.1,0,1.96146049
+99,441849,Calactin,-8.3,0,1.960759232
+100,441883,Convallagenin A 3-O-alpha-L-arabinopyranoside,-8.1,0,1.958332072
